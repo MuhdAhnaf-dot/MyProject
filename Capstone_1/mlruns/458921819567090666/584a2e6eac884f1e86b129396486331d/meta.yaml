@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/458921819567090666/584a2e6eac884f1e86b129396486331d/artifacts
+end_time: 1741588306410
+entry_point_name: ''
+experiment_id: '458921819567090666'
+lifecycle_stage: active
+run_id: 584a2e6eac884f1e86b129396486331d
+run_name: stately-steed-705
+run_uuid: 584a2e6eac884f1e86b129396486331d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741588295398
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/458921819567090666/d21e0d8113af430d9b923e48ff8a3da7/artifacts
+end_time: 1741588082447
+entry_point_name: ''
+experiment_id: '458921819567090666'
+lifecycle_stage: active
+run_id: d21e0d8113af430d9b923e48ff8a3da7
+run_name: kindly-snake-709
+run_uuid: d21e0d8113af430d9b923e48ff8a3da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741588071442
+status: 3
+tags: []
+user_id: suhaimi

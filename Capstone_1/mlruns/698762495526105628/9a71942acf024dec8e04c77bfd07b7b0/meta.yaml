@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/698762495526105628/9a71942acf024dec8e04c77bfd07b7b0/artifacts
+end_time: 1741589906632
+entry_point_name: ''
+experiment_id: '698762495526105628'
+lifecycle_stage: active
+run_id: 9a71942acf024dec8e04c77bfd07b7b0
+run_name: able-flea-32
+run_uuid: 9a71942acf024dec8e04c77bfd07b7b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589906584
+status: 4
+tags: []
+user_id: suhaimi

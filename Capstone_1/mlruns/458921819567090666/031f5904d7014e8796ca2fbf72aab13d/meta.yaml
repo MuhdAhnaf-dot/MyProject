@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/458921819567090666/031f5904d7014e8796ca2fbf72aab13d/artifacts
+end_time: 1741587756883
+entry_point_name: ''
+experiment_id: '458921819567090666'
+lifecycle_stage: active
+run_id: 031f5904d7014e8796ca2fbf72aab13d
+run_name: upset-bug-520
+run_uuid: 031f5904d7014e8796ca2fbf72aab13d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741587745938
+status: 3
+tags: []
+user_id: suhaimi

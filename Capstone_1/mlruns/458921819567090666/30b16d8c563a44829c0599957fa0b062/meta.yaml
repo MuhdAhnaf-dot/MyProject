@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/458921819567090666/30b16d8c563a44829c0599957fa0b062/artifacts
+end_time: 1741587963347
+entry_point_name: ''
+experiment_id: '458921819567090666'
+lifecycle_stage: active
+run_id: 30b16d8c563a44829c0599957fa0b062
+run_name: spiffy-bird-323
+run_uuid: 30b16d8c563a44829c0599957fa0b062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741587952192
+status: 3
+tags: []
+user_id: suhaimi
