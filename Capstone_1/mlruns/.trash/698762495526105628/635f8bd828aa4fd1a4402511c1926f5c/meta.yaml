@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/698762495526105628/635f8bd828aa4fd1a4402511c1926f5c/artifacts
+deleted_time: 1741595405237
 end_time: 1741589987651
 entry_point_name: ''
 experiment_id: '698762495526105628'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 635f8bd828aa4fd1a4402511c1926f5c
 run_name: bald-shark-791
 run_uuid: 635f8bd828aa4fd1a4402511c1926f5c

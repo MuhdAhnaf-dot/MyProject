@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/698762495526105628/db9b80224d154ca9bf70184cbc917ca0/artifacts
+deleted_time: 1741595405237
 end_time: 1741589887524
 entry_point_name: ''
 experiment_id: '698762495526105628'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: db9b80224d154ca9bf70184cbc917ca0
 run_name: colorful-bear-925
 run_uuid: db9b80224d154ca9bf70184cbc917ca0

@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Desktop/Capstone_Project/Capstone_1/mlruns/698762495526105628/9a71942acf024dec8e04c77bfd07b7b0/artifacts
+deleted_time: 1741595405237
 end_time: 1741589906632
 entry_point_name: ''
 experiment_id: '698762495526105628'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9a71942acf024dec8e04c77bfd07b7b0
 run_name: able-flea-32
 run_uuid: 9a71942acf024dec8e04c77bfd07b7b0
