@@ -12,3 +12,9 @@ Handling missing values
 Converting cases_new to numeric format
 Normalizing numerical features
 Creating time-series windows for LSTM training
+
+The model is trained using TensorFlow/Keras with MLflow logging.
+Performance metrics:
+Loss (MSE): 0.0302
+Mean Absolute Error (MAE): 0.0807
+The trained model is evaluated on test data using visualization tools.
