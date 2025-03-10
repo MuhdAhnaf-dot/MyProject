@@ -17,7 +17,7 @@ Creating time-series windows for LSTM training
 
 Here is a comparison between the predicted COVID-19 cases and the actual cases on the test dataset:
 
-![alt text](Capstone_1/result/Prediction vs Actual.png)
+![alt text](image-1.png)
 
 ### MLflow Training Results
 
