@@ -23,7 +23,7 @@ Here is a comparison between the predicted COVID-19 cases and the actual cases o
 
 The following image shows the training results and metrics tracked by MLflow:
 
-![MLflow Results](result/MLflowresult.png)
+![MLflow Results](Capstone_1/result/MLflowresult.png)
 
 architecture
 ![alt text](Capstone_1/image.png)
