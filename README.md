@@ -26,7 +26,10 @@ The following image shows the training results and metrics tracked by MLflow:
 ![MLflow Results](Capstone_1/result/MLflowresult.png)
 
 architecture
+
+
 ![alt text](image.png)
+
 The model is trained using TensorFlow/Keras with MLflow logging.
 Performance metrics:
 Loss (MSE): 0.0302
