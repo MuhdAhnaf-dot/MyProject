@@ -17,14 +17,16 @@ Creating time-series windows for LSTM training
 
 Here is a comparison between the predicted COVID-19 cases and the actual cases on the test dataset:
 
-![Prediction vs Actual](results/Prediction vs Actual.png)
+![alt text](Capstone_1/image-1.png)
 
 ### MLflow Training Results
 
 The following image shows the training results and metrics tracked by MLflow:
 
-![MLflow Results](MLflowresult.png)
+![MLflow Results](result/MLflowresult.png)
 
+architecture
+![alt text](Capstone_1/image.png)
 The model is trained using TensorFlow/Keras with MLflow logging.
 Performance metrics:
 Loss (MSE): 0.0302
