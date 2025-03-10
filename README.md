@@ -13,6 +13,18 @@ Converting cases_new to numeric format
 Normalizing numerical features
 Creating time-series windows for LSTM training
 
+### Prediction vs Actual Cases
+
+Here is a comparison between the predicted COVID-19 cases and the actual cases on the test dataset:
+
+![Prediction vs Actual](results/Prediction vs Actual.png)
+
+### MLflow Training Results
+
+The following image shows the training results and metrics tracked by MLflow:
+
+![MLflow Results](MLflowresult.png)
+
 The model is trained using TensorFlow/Keras with MLflow logging.
 Performance metrics:
 Loss (MSE): 0.0302
